@@ -1,0 +1,7 @@
+E:\quadrate\designpattern\singleton\template\Template\Template\bin\Debug\Template.exe.config
+E:\quadrate\designpattern\singleton\template\Template\Template\bin\Debug\Template.exe
+E:\quadrate\designpattern\singleton\template\Template\Template\bin\Debug\Template.pdb
+E:\quadrate\designpattern\singleton\template\Template\Template\obj\Debug\Template.csprojAssemblyReference.cache
+E:\quadrate\designpattern\singleton\template\Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+E:\quadrate\designpattern\singleton\template\Template\Template\obj\Debug\Template.exe
+E:\quadrate\designpattern\singleton\template\Template\Template\obj\Debug\Template.pdb
